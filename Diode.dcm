@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBD4148
+D Diode
+$ENDCMP
+#
+$CMP PLVA650A
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+#End Doc Library
