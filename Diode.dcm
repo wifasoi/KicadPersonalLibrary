@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAS70-04
+D BAS70-04
+K SHOTTY DIODE SERIES
+F http://www.nxp.com/documents/data_sheet/BAS70_1PS7XSB70_SER.pdf
+$ENDCMP
+#
 $CMP MMBD4148
 D Diode
 $ENDCMP
@@ -7,6 +13,12 @@ $ENDCMP
 $CMP PLVA650A
 D Diode zener
 K DEV DIODE
+$ENDCMP
+#
+$CMP SN74S1053
+D SN74S1053 Schotty series over-voltage protection
+K SN74S1053 Schotty series line protection
+F http://www.ti.com/lit/ds/symlink/sn74s1053.pdf
 $ENDCMP
 #
 #End Doc Library

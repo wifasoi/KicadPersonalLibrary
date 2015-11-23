@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP P82B96
+F http://www.nxp.com/documents/data_sheet/P82B96.pdf
+$ENDCMP
+#
 #End Doc Library

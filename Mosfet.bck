@@ -5,4 +5,10 @@ K HEXFET P-Channel MOSFET
 F http://www.irf.com/product-info/datasheets/data/irf9540n.pdf
 $ENDCMP
 #
+$CMP IRF9389PbF
+D HEXFET P/N mosfet
+K HEXFET P/N mosfet
+F http://www.irf.com/product-info/datasheets/data/irf9389pbf.pdf
+$ENDCMP
+#
 #End Doc Library

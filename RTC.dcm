@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1338C
+D RTC integrated quarz and battery switchover
+K RTC DS1338C
+F http://datasheets.maximintegrated.com/en/ds/DS1338-DS1338Z.pdf
+$ENDCMP
+#
+#End Doc Library

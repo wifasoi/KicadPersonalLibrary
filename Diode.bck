@@ -1,7 +1,18 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BAS70-04
+D BAS70-04
+K SHOTTY DIODE SERIES
+F http://www.nxp.com/documents/data_sheet/BAS70_1PS7XSB70_SER.pdf
+$ENDCMP
+#
 $CMP MMBD4148
 D Diode
+$ENDCMP
+#
+$CMP PLVA650A
+D Diode zener
+K DEV DIODE
 $ENDCMP
 #
 #End Doc Library
