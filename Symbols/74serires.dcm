@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4528
+D Multipourpouse Monostable with settable time
+K monostable, 4538,4528,timer
+$ENDCMP
+#
+$CMP 74123
+D Multipourpouse Monostable with settable time
+K monostable, 74*123,timer,
+$ENDCMP
+#
+#End Doc Library
